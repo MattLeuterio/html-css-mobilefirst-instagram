@@ -12,6 +12,8 @@
 
 .app {
   height: 100vh;
+  max-width: 768px;
+  margin: 0 auto;
 }
 
 /* MAIN HEADER */
@@ -28,6 +30,7 @@
   justify-content: center;
   align-items: center;
   padding: 15px;
+  max-width: 768px;
 }
 
 .top-menu__camera {
